@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![](https://github.com/muratavci05/reactjs_JanuaryCom-clone/blob/9dccea45dfa4614326ce7b4dde50cc97807be0ce/src/components/assets/view.gif)
+
 Clone of Januar.com with react js,
 ReactJs ile januar.com sitesinin klon çalışması
 
@@ -11,5 +13,3 @@ React-Fast-Marquee
 CSS
 *Herhangi bir css kütüphanesi kullanılmamıştır.
 
-
-https://www.linkedin.com/posts/muratavci05_react-css-github-activity-7005824286242312192-NJNO?utm_source=share&utm_medium=member_desktop
