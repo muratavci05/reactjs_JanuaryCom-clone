@@ -1,0 +1,50 @@
+/* ALL PAGES CSS */
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  
+  /* Your max width code replaces the code below */
+  @media only screen and (min-width: 1440px) {
+      body{font-size: 1em;}
+  }
+  
+  /* Desktop Only CSS (i.e. hover states) */
+  @media only screen and (min-width: 992px) {
+      
+  }
+  
+  /* Main Variables */
+  :root {
+    --main-dark: black;
+    --main-light: white;
+  }
+  
+  /* Global Styles */
+  ::selection {
+      background: var(--main-dark);
+    color: var(--main-light);
+    text-shadow: none;
+  }
+  img::selection, svg::selection {
+      background: transparent;
+  }
+  
+  /* Link color inherits from parent font color  */
+  a {
+      color: inherit;
+  }
+  
+  /* Disable / enable clicking on an element and its children  */
+  .no-click {
+      pointer-events: none;
+  }
+  .can-click {
+      pointer-events: auto;
+  }
+  
+  /* Target any element with a certain "word" in the className name  */
+  [className*="spacer"] {
+      
+  }

@@ -1,0 +1,22 @@
+.bigImageStyle:hover{
+    cursor: pointer;
+    background-color: antiquewhite;
+    transition: 0.5sn;
+    
+}
+.bigImageStyleDotted:hover{
+    cursor: pointer;
+    background-color: rgb(248, 246, 235);
+    transition: 0.5sn;
+}
+
+.hero__feature-text {
+    display: inline-block;
+    white-space: nowrap;
+  }
+  .hero__feature-inner-container {
+    display: flex;
+    align-items: center;
+    margin-right: 2rem;
+    
+  }

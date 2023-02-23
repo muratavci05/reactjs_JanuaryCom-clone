@@ -1,0 +1,113 @@
+.cp__number {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 3em;
+    height: 3em;
+    padding-top: 0.2em;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: 100em;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .dropdown-list {
+    position: static;
+    display: block;
+    padding-left: 5em;
+    background-color: transparent;
+  }
+  #w-dropdown-list-0{
+    width: 353.562px;
+  }
+  .accordion-toggle {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 0px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    grid-column-gap: 2em;
+  }
+  /*dropdown*/
+ 
+  #toogle_0 nav{
+    height: 70px;
+  }
+  #toogle_1 nav{
+    height: 80px;
+  }
+  #toogle_2 nav{
+    height: 70px;
+  }
+  #toogle_3 nav{
+    height: 50px;
+  }
+  
+
+  #toogle_0 .cp__number{
+    background-color:rgb(255, 255, 255);
+   }
+
+  #toogle_1 .cp__number{
+    background-color:rgb(255, 255, 255);
+   }
+  #toogle_2 .cp__number{
+   background-color:rgb(255, 255, 255);
+  }
+  #toogle_3 .cp__number{
+    background-color:rgb(255, 255, 255);
+   }
+
+.cp__number.show{
+    height: 3em;
+}
+
+.compliance__item-wrap.dark {
+    overflow: hidden;
+    height: 100vh;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #393a3c;
+    -webkit-perspective: normal;
+    perspective: normal;
+  }
+
+  .compliance__heading {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    grid-column-gap: 2.5em;
+    margin-bottom:-55px;
+    
+  }
+
+
+
+  
+
+
+  
